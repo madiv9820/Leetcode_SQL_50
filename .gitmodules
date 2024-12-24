@@ -13,3 +13,6 @@
 [submodule "24_12_2024--1683_Invalid_Tweets"]
 	path = 24_12_2024--1683_Invalid_Tweets
 	url = https://github.com/madiv9820/24_12_2024--1683_Invalid_Tweets.git
+[submodule "24_12_2024--1378_Replace_Employee_ID_With_The_Unique_Identifier"]
+	path = 24_12_2024--1378_Replace_Employee_ID_With_The_Unique_Identifier
+	url = https://github.com/madiv9820/24_12_2024--1378_Replace_Employee_ID_With_The_Unique_Identifier.git
