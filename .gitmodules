@@ -25,3 +25,6 @@
 [submodule "27_12_2024--197_Rising_Temperature"]
 	path = 27_12_2024--197_Rising_Temperature
 	url = https://github.com/madiv9820/27_12_2024--197_Rising_Temperature.git
+[submodule "27_12_2024--1661_Average_Time_of_Process_per_Machine"]
+	path = 27_12_2024--1661_Average_Time_of_Process_per_Machine
+	url = https://github.com/madiv9820/27_12_2024--1661_Average_Time_of_Process_per_Machine.git
