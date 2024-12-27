@@ -31,3 +31,6 @@
 [submodule "27_12_2024--577_Employee_Bonus"]
 	path = 27_12_2024--577_Employee_Bonus
 	url = https://github.com/madiv9820/27_12_2024--577_Employee_Bonus.git
+[submodule "27_12_2024--1280_Students_and_Examinations"]
+	path = 27_12_2024--1280_Students_and_Examinations
+	url = https://github.com/madiv9820/27_12_2024--1280_Students_and_Examinations.git
