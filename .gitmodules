@@ -19,3 +19,6 @@
 [submodule "25_12_2024--1068_Product_Sales_Analysis_I"]
 	path = 25_12_2024--1068_Product_Sales_Analysis_I
 	url = https://github.com/madiv9820/25_12_2024--1068_Product_Sales_Analysis_I.git
+[submodule "25_12_2024--1581_Customer_Who_Visited_but_Did_Not_Make_Any_Transactions"]
+	path = 25_12_2024--1581_Customer_Who_Visited_but_Did_Not_Make_Any_Transactions
+	url = https://github.com/madiv9820/25_12_2024--1581_Customer_Who_Visited_but_Did_Not_Make_Any_Transactions.git
