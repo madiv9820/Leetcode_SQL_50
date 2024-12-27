@@ -28,3 +28,6 @@
 [submodule "27_12_2024--1661_Average_Time_of_Process_per_Machine"]
 	path = 27_12_2024--1661_Average_Time_of_Process_per_Machine
 	url = https://github.com/madiv9820/27_12_2024--1661_Average_Time_of_Process_per_Machine.git
+[submodule "27_12_2024--577_Employee_Bonus"]
+	path = 27_12_2024--577_Employee_Bonus
+	url = https://github.com/madiv9820/27_12_2024--577_Employee_Bonus.git
