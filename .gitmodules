@@ -34,3 +34,9 @@
 [submodule "27_12_2024--1280_Students_and_Examinations"]
 	path = 27_12_2024--1280_Students_and_Examinations
 	url = https://github.com/madiv9820/27_12_2024--1280_Students_and_Examinations.git
+[submodule "29_12_2024--570_Managers_with_at_Least_5_Direct_Reports"]
+	path = 29_12_2024--570_Managers_with_at_Least_5_Direct_Reports
+	url = https://github.com/madiv9820/29_12_2024--570_Managers_with_at_Least_5_Direct_Reports.git
+[submodule "29_12_2024--1934_Confirmation_Rate"]
+	path = 29_12_2024--1934_Confirmation_Rate
+	url = https://github.com/madiv9820/29_12_2024--1934_Confirmation_Rate.git
